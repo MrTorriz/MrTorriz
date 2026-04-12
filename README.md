@@ -6,4 +6,79 @@
 
 </div>
 
+---
+
+## Tech Stack
+
+<div align="center">
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="45" height="45"/>
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Puppet-FFAE1A?style=flat-square&logo=puppet&logoColor=black"/>
+<img src="https://img.shields.io/badge/GNS3-009BDE?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arista-EF3B2D?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Juniper-84B135?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white"/>
+<img src="https://img.shields.io/badge/Suricata-EF3B2D?style=flat-square&logoColor=white"/>
+</p>
+
+</div>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<table><tr><td>
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrTorriz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github)](https://github.com/MrTorriz)
+
+</td><td>
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrTorriz&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/MrTorriz)
+
+</td></tr></table>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MrTorriz&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MrTorriz&theme=tokyo-night&hide_border=true)](https://github.com/MrTorriz)
+
+![Snake animation](https://github.com/MrTorriz/MrTorriz/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## Contact
+
+<div align="center">
+
+<a href="https://linkedin.com/in/martin-karlsson-557321360">
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
+</a>
+
+</div>
+
 ![footer](https://capsule-render.vercel.app/api?type=wave&height=100&color=0:0a1628,100:0d1117&section=footer&reversal=true)
