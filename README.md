@@ -12,7 +12,7 @@
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0d1117,50:7aa2f7,100:0d1117" alt="">
 
 <img align="right" width="320" alt="Infrastructure" src="https://user-images.githubusercontent.com/74038190/212750996-e3f7d2b7-0675-4f59-b95f-45a2f9ed1d80.gif">
 
@@ -22,7 +22,7 @@ Looking for roles in **network security, server administration, or IT infrastruc
 
 <br clear="right">
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0d1117,50:7aa2f7,100:0d1117" alt="">
 
 ## Tech Stack
 
@@ -45,7 +45,7 @@ Looking for roles in **network security, server administration, or IT infrastruc
 | Proxmox · CloudStack | LVM · mdadm RAID · LUKS · ZFS | Bash · Python · Cron |
 | Docker · GNS3 | PXE + DHCP + TFTP + NFS | Git / GitHub |
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0d1117,50:7aa2f7,100:0d1117" alt="">
 
 ## Homelab
 
@@ -88,7 +88,7 @@ Looking for roles in **network security, server administration, or IT infrastruc
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0d1117,50:7aa2f7,100:0d1117" alt="">
 
 ## Education
 
@@ -110,7 +110,7 @@ Looking for roles in **network security, server administration, or IT infrastruc
 
 </details>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0d1117,50:7aa2f7,100:0d1117" alt="">
 
 ## Stats
 
@@ -137,9 +137,15 @@ Looking for roles in **network security, server administration, or IT infrastruc
 
 [![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MrTorriz&theme=tokyonight&utcOffset=1)](https://github.com/MrTorriz)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MrTorriz/MrTorriz/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MrTorriz/MrTorriz/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MrTorriz/MrTorriz/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0d1117,50:7aa2f7,100:0d1117" alt="">
 
 <div align="center">
 <em>Available for roles in network security, infrastructure, or server administration — Sweden, from May 2026.</em>
