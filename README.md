@@ -22,9 +22,9 @@ Looking for roles in **network security, server administration, or IT infrastruc
 
 ## Tech Stack
 
-**Networking & Security**
+[![Tech stack](https://skillicons.dev/icons?i=linux,debian,ubuntu,kali,proxmox,docker,bash,python,git,nginx,cloudflare,vim&theme=dark)](https://skillicons.dev)
 
-[![Networking skills](https://skillicons.dev/icons?i=linux,debian,ubuntu,kali,bash,python,docker,git,nginx,grafana,cloudflare&theme=dark)](https://skillicons.dev)
+**Networking & Security**
 
 | Protocols & Routing | Firewalls | Security |
 |---|---|---|
