@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=shark&height=200&color=0:0d1117,100:0a1628&text=Martin%20Karlsson&fontSize=52&fontColor=c0caf5&desc=Network%20Security%20Specialist%20%C2%B7%20Sweden&descSize=20&descAlignY=75&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117,50:0a1e36,100:0d1117&text=Martin%20Karlsson&fontSize=52&fontColor=c0caf5&desc=Network%20Security%20Specialist%20%C2%B7%20Sweden&descSize=20&descAlignY=75&animation=fadeIn)
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=900&color=7AA2F7&center=true&vCenter=true&width=560&height=32&lines=Network+Security+%7C+Linux+Infrastructure;Networking+%7C+Automation+%7C+Homelab;Open+to+Work+%E2%80%94+May+2026)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2800&pause=800&color=7AA2F7&center=true&vCenter=true&width=620&height=32&lines=Network+Security+%7C+Linux+Infrastructure;Cisco+%C2%B7+Arista+%C2%B7+Juniper+%C2%B7+Ceph+%C2%B7+Puppet;Defense+in+Depth+%7C+Least+Privilege;Open+to+Work+%E2%80%94+May+2026)](https://git.io/typing-svg)
 
 <br>
 
@@ -14,17 +14,23 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0d1117,50:7aa2f7,100:0d1117" alt="">
 
-<img align="right" width="320" alt="Infrastructure" src="https://user-images.githubusercontent.com/74038190/212750996-e3f7d2b7-0675-4f59-b95f-45a2f9ed1d80.gif">
+<img align="right" width="300" alt="Infrastructure" src="https://user-images.githubusercontent.com/74038190/212750996-e3f7d2b7-0675-4f59-b95f-45a2f9ed1d80.gif">
 
-I build and secure infrastructure — from physical data center hardware to self-hosted home services. My background covers hands-on networking labs (GNS3, Cisco, Arista, Juniper), Linux server administration, bare-metal provisioning, and automation with Puppet. I care about defense in depth, least privilege, and things that actually work when you pull the power cable.
+### Building & securing infrastructure.
 
-Looking for roles in **network security, server administration, or IT infrastructure** in Sweden.
+From physical data center hardware to self-hosted home services — spanning hands-on networking labs (GNS3, Cisco, Arista, Juniper), Linux server administration, bare-metal provisioning, and automation with Puppet.
+
+**Defense in depth. Least privilege. Things that work when you pull the power cable.**
+
+<br>
+
+Looking for roles in **network security, server administration, or IT infrastructure** — Sweden, from May 2026.
 
 <br clear="right">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0d1117,50:7aa2f7,100:0d1117" alt="">
 
-## Tech Stack
+## 🛠 Tech Stack
 
 [![Tech stack](https://skillicons.dev/icons?i=linux,debian,ubuntu,kali,docker,bash,python,git,nginx,cloudflare,vim&theme=dark)](https://skillicons.dev)
 
@@ -47,7 +53,9 @@ Looking for roles in **network security, server administration, or IT infrastruc
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0d1117,50:7aa2f7,100:0d1117" alt="">
 
-## Homelab
+## 🏠 Homelab
+
+> Single server, ~40 Docker containers — GPU transcoding, private cloud, hardened by design.
 
 <div align="center">
 
@@ -90,7 +98,7 @@ Looking for roles in **network security, server administration, or IT infrastruc
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0d1117,50:7aa2f7,100:0d1117" alt="">
 
-## Education
+## 🎓 Education
 
 <details>
 <summary>Specialist inom nätverkssäkerhet — Folkuniversitetet Göteborg (Aug 2024 – May 2026)</summary>
@@ -112,7 +120,7 @@ Looking for roles in **network security, server administration, or IT infrastruc
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0d1117,50:7aa2f7,100:0d1117" alt="">
 
-## Stats
+## 📊 Stats
 
 <div align="center">
 
@@ -129,13 +137,21 @@ Looking for roles in **network security, server administration, or IT infrastruc
 
 </td>
 </tr>
-</table>
+<tr>
+<td>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=MrTorriz&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MrTorriz&theme=tokyo-night&hide_border=true)](https://github.com/MrTorriz)
+</td>
+<td>
 
 [![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MrTorriz&theme=tokyonight&utcOffset=1)](https://github.com/MrTorriz)
+
+</td>
+</tr>
+</table>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MrTorriz&theme=tokyo-night&hide_border=true)](https://github.com/MrTorriz)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MrTorriz/MrTorriz/output/github-contribution-grid-snake-dark.svg">
