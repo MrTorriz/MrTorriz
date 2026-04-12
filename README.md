@@ -64,7 +64,7 @@
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MrTorriz&theme=tokyo-night&hide_border=true)](https://github.com/MrTorriz)
 
-![Snake animation](https://raw.githubusercontent.com/MrTorriz/MrTorriz/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/MrTorriz/MrTorriz/output/dist/github-contribution-grid-snake-dark.svg)
 
 </div>
 
