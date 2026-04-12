@@ -14,6 +14,28 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0d1117,50:7aa2f7,100:0d1117" alt="">
 
+## 🚀 About Me
+
+I build and secure infrastructure — from physical data center hardware to self-hosted home services. My background covers hands-on networking labs, Linux server administration, bare-metal provisioning, and automation with Puppet. 
+
+Currently, my work is primarily in private repositories, but my daily operations include:
+* **Thesis Work:** Building an open-source Zero Trust Network Access (ZTNA) lab using Dex, OAuth2-Proxy, and nftables.
+* **Data Center Automation:** Deploying CloudStack and Ceph on physical HP/Panasas hardware at Adeptum.
+* **Homelab:** Maintaining a 38+ container deployment treated as a production environment with strict security postures (CrowdSec, Suricata, UFW default-deny).
+
+**📬 Let's Connect:**
+
+<div align="left">
+  <a href="mailto:din.epost@exempel.se">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/martin-karlsson-557321360/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0d1117,50:7aa2f7,100:0d1117" alt="">
+
 ## 🛠 Tech Stack
 
 [![Tech stack](https://skillicons.dev/icons?i=linux,debian,ubuntu,kali,docker,bash,python,git,nginx,cloudflare,vim&theme=dark)](https://skillicons.dev)
