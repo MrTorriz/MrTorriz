@@ -14,16 +14,12 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0d1117,50:7aa2f7,100:0d1117" alt="">
 
-<img align="right" width="300" alt="Infrastructure" src="https://user-images.githubusercontent.com/74038190/212750996-e3f7d2b7-0675-4f59-b95f-45a2f9ed1d80.gif">
-
 <img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/212750996-e3f7d2b7-0675-4f59-b95f-45a2f9ed1d80.gif">
 
 🔧 **I build infrastructure that works when you pull the power cable.**
 Network security student by day, homelab operator by night.
 
 📍 Open to work — Sweden, May 2026
-
-<br clear="right">
 
 <br clear="right">
 
@@ -97,28 +93,6 @@ Network security student by day, homelab operator by night.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0d1117,50:7aa2f7,100:0d1117" alt="">
 
-## 🎓 Education
-
-<details>
-<summary>Specialist inom nätverkssäkerhet — Folkuniversitetet Göteborg (Aug 2024 – May 2026)</summary>
-
-| Course | Topics |
-|---|---|
-| Network Theory | OSI/TCP-IP · Subnetting · DNS · DHCP · ARP · VLANs |
-| Virtualization | KVM · Proxmox · Docker · Ceph · GlusterFS · OpenStack |
-| Routing & Switching | OSPF · BGP · EIGRP · ACL · NAT · PXE · VLAN/STP |
-| Server Administration | LVM · RAID · LUKS · ZFS · systemd · AD · GPO · Fail2ban |
-| Firewalls | nftables · iptables · PF · UFW · FortiGate · Sophos XG · Suricata |
-| Network Security | TLS · IPSec · WireGuard · PKI · SPF/DKIM/DMARC · Metasploit · MITRE ATT&CK |
-| Technical English | Incident reports · CVSS · CVE · CWE · GDPR |
-| Advanced Networking | OSPFv3 · BGP path selection · IPv6 · QUIC · QoS · LibreNMS · NetFlow |
-| Advanced R&S | Puppet · ZTP · BFD · NAT64 · Arista/Juniper/FRRouting interop |
-| Thesis | ZTNA implementation and evaluation |
-
-</details>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0d1117,50:7aa2f7,100:0d1117" alt="">
-
 ## 📊 Stats
 
 <div align="center">
@@ -163,6 +137,8 @@ Network security student by day, homelab operator by night.
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0d1117,50:7aa2f7,100:0d1117" alt="">
 
 <div align="center">
+<em>Specialist inom nätverkssäkerhet — Folkuniversitetet Göteborg (2024–2026)</em>
+<br><br>
 <em>Available for roles in network security, infrastructure, or server administration — Sweden, from May 2026.</em>
 </div>
 
