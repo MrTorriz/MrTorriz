@@ -14,17 +14,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0d1117,50:7aa2f7,100:0d1117" alt="">
 
-<img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/212750996-e3f7d2b7-0675-4f59-b95f-45a2f9ed1d80.gif">
-
-🔧 **I build infrastructure that works when you pull the power cable.**
-Network security student by day, homelab operator by night.
-
-📍 Open to work — Sweden, May 2026
-
-<br clear="right">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0d1117,50:7aa2f7,100:0d1117" alt="">
-
 ## 🛠 Tech Stack
 
 [![Tech stack](https://skillicons.dev/icons?i=linux,debian,ubuntu,kali,docker,bash,python,git,nginx,cloudflare,vim&theme=dark)](https://skillicons.dev)
@@ -45,51 +34,6 @@ Network security student by day, homelab operator by night.
 | KVM / libvirt | Ceph (MON/MGR/MDS/OSD) | Puppet (Roles & Profiles) |
 | Proxmox · CloudStack | LVM · mdadm RAID · LUKS · ZFS | Bash · Python · Cron |
 | Docker · GNS3 | PXE + DHCP + TFTP + NFS | Git / GitHub |
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0d1117,50:7aa2f7,100:0d1117" alt="">
-
-## 🏠 Homelab
-
-> Single server, ~40 Docker containers — GPU transcoding, private cloud, hardened by design.
-
-<div align="center">
-
-![Ubuntu](https://img.shields.io/badge/Ubuntu_24.04_LTS-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Intel](https://img.shields.io/badge/i5--9400F-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![RAM](https://img.shields.io/badge/16_GB_RAM-4A4A4A?style=for-the-badge&logo=memory&logoColor=white)
-![NVIDIA](https://img.shields.io/badge/RTX_2060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![Storage](https://img.shields.io/badge/~8_TB_Storage-4A4A4A?style=for-the-badge&logo=databricks&logoColor=white)
-
-</div>
-
-<details>
-<summary>~40 running Docker containers</summary>
-
-| Category | Services |
-|---|---|
-| Media | Plex (GPU transcode) · Audiobookshelf · Tdarr |
-| Photos | Immich (GPU ML face detection) |
-| Cloud | Nextcloud |
-| *arr stack | Sonarr · Radarr · Lidarr · Bazarr · Prowlarr · qBittorrent (VPN-bound) · Seerr · FlareSolverr |
-| Network | AdGuard Home · Nginx Proxy Manager · UniFi · Cloudflared |
-| Monitoring | Netdata · Glances · Scrutiny · Dozzle · Speedtest |
-| Security | CrowdSec · Suricata |
-| Productivity | Miniflux · Ntfy · IT-Tools · Draw.io |
-| Management | Portainer · Watchtower · Homepage |
-
-</details>
-
-<div align="center">
-
-![UFW](https://img.shields.io/badge/UFW_default--deny-FF4444?style=flat-square&logo=linux&logoColor=white)
-![WireGuard](https://img.shields.io/badge/Mullvad_WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=white)
-![CrowdSec](https://img.shields.io/badge/CrowdSec-1A1A2E?style=flat-square&logo=crowdsec&logoColor=white)
-![Suricata](https://img.shields.io/badge/Suricata_IDS-D32F2F?style=flat-square&logoColor=white)
-![Docker](https://img.shields.io/badge/no--new--privileges-2496ED?style=flat-square&logo=docker&logoColor=white)
-![SSH](https://img.shields.io/badge/SSH_key--only-4A4A4A?style=flat-square&logo=openssh&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare_Tunnel-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-
-</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0d1117,50:7aa2f7,100:0d1117" alt="">
 
@@ -129,7 +73,7 @@ Network security student by day, homelab operator by night.
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MrTorriz/MrTorriz/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MrTorriz/MrTorriz/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MrTorriz/MrTorriz/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/MrTorriz/MrTorriz/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
 </div>
@@ -137,8 +81,6 @@ Network security student by day, homelab operator by night.
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0d1117,50:7aa2f7,100:0d1117" alt="">
 
 <div align="center">
-<em>Specialist inom nätverkssäkerhet — Folkuniversitetet Göteborg (2024–2026)</em>
-<br><br>
 <em>Available for roles in network security, infrastructure, or server administration — Sweden, from May 2026.</em>
 </div>
 
