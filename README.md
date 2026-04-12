@@ -1,8 +1,8 @@
+![header](https://capsule-render.vercel.app/api?type=shark&height=200&color=0:0d1117,100:0a1628&text=Martin%20Karlsson&fontSize=52&fontColor=c0caf5&desc=Network%20Security%20Specialist%20%C2%B7%20Gothenburg%2C%20Sweden&descSize=20&descAlignY=75&animation=fadeIn)
+
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=shark&height=200&color=0:0d1117,100:0a1628&text=Martin%20Karlsson&fontSize=52&fontColor=c0caf5&desc=Network%20Security%20Specialist%20%C2%B7%20Gothenburg&descSize=20&descAlignY=75&animation=fadeIn)
-
-*Graduating May 2026 — Specialist inom nätverkssäkerhet, Folkuniversitetet SN24*
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=900&color=7AA2F7&center=true&vCenter=true&width=560&height=32&lines=Network+Security+%7C+Linux+Infrastructure;Zero+Trust+%7C+Defense+in+Depth;Networking+%7C+Automation+%7C+Homelab;Open+to+Work+%E2%80%94+May+2026)](https://git.io/typing-svg)
 
 <br>
 
@@ -61,12 +61,12 @@ Open-source ZTNA lab in GNS3. A Debian gateway acts as the Policy Enforcement Po
 Client → Nginx:80 → OAuth2-Proxy:4180 → Dex:5556 (OIDC) → Nginx:8888 (PEP) → Backend
 ```
 
-Three isolated zones · nftables default-deny · Dex + OAuth2-Proxy as systemd services
+Three isolated zones · nftables default-deny · Dex + OAuth2-Proxy as systemd services  
 **T1–T5 all passed** — unauthenticated blocked, OIDC enforced, microsegmentation logged.
 
 ---
 
-### Internship — Adeptum Data Center *(Mar–Apr 2026, in progress)*
+### Internship — Adeptum Data Center *(Mar–Apr 2026)*
 
 Designing and building a fully automated data center platform on physical hardware:
 
@@ -115,8 +115,6 @@ Ubuntu 24.04 LTS · i5-9400F · 16 GB RAM · RTX 2060 · ~8 TB storage
 
 **Security posture:** UFW default-deny · Mullvad WireGuard lockdown · CrowdSec + Suricata IDS · `no-new-privileges` on every container · SSH key-only · Cloudflare Tunnel + Access (Google OAuth) for external exposure
 
-Everything is in a private Git repo — Docker Compose, Bash scripts, and daily snapshots. Treated like a real deployment.
-
 ---
 
 ## Education
@@ -160,7 +158,11 @@ Everything is in a private Git repo — Docker Compose, Bash scripts, and daily 
 </tr>
 </table>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MrTorriz&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
 </div>
+
+---
 
 <div align="center">
 <em>Available for roles in network security, infrastructure, or server administration — Gothenburg, from May 2026.</em>
