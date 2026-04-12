@@ -160,6 +160,8 @@ Ubuntu 24.04 LTS · i5-9400F · 16 GB RAM · RTX 2060 · ~8 TB storage
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=MrTorriz&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MrTorriz&theme=tokyo-night&hide_border=true)](https://github.com/MrTorriz)
+
 </div>
 
 ---
