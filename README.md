@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=shark&height=200&color=0:0d1117,100:0a1628&text=Martin%20Karlsson&fontSize=52&fontColor=c0caf5&desc=Network%20Security%20Specialist%20%C2%B7%20Gothenburg%2C%20Sweden&descSize=20&descAlignY=75&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=shark&height=200&color=0:0d1117,100:0a1628&text=Martin%20Karlsson&fontSize=52&fontColor=c0caf5&desc=Network%20Security%20Specialist%20%C2%B7%20Sweden&descSize=20&descAlignY=75&animation=fadeIn)
 
 <div align="center">
 
@@ -16,15 +16,7 @@
 
 I build and secure infrastructure — from physical data center hardware to self-hosted home services. My background covers hands-on networking labs (GNS3, Cisco, Arista, Juniper), Linux server administration, bare-metal provisioning, and automation with Puppet. I care about defense in depth, least privilege, and things that actually work when you pull the power cable.
 
-Looking for roles in **network security, server administration, or IT infrastructure** in the Gothenburg region.
-
----
-
-## Currently
-
-- Finishing my **ZTNA thesis** — open-source Zero Trust lab (Dex + OAuth2-Proxy + nftables + Nginx)
-- Building a fully automated **data center platform** at Adeptum: CloudStack + Ceph + Kill Bill + Puppet, on real Panasas and HP C7000 hardware
-- Maintaining a ~38-container homelab that I treat like a real deployment
+Looking for roles in **network security, server administration, or IT infrastructure** in Sweden.
 
 ---
 
@@ -51,53 +43,12 @@ Looking for roles in **network security, server administration, or IT infrastruc
 
 ---
 
-## Featured Work
-
-### Thesis — Zero Trust Network Access *(2026)*
-
-Open-source ZTNA lab in GNS3. A Debian gateway acts as the Policy Enforcement Point — no traffic reaches internal resources without verified identity and explicit policy.
-
-```
-Client → Nginx:80 → OAuth2-Proxy:4180 → Dex:5556 (OIDC) → Nginx:8888 (PEP) → Backend
-```
-
-Three isolated zones · nftables default-deny · Dex + OAuth2-Proxy as systemd services  
-**T1–T5 all passed** — unauthenticated blocked, OIDC enforced, microsegmentation logged.
-
----
-
-### Internship — Adeptum Data Center *(Mar–Apr 2026)*
-
-Designing and building a fully automated data center platform on physical hardware:
-
-- **Storage:** Ceph cluster on Panasas ActiveStor (directors = MON/MGR/MDS, storage blades = OSD)
-- **Compute:** Diskless HP C7000 and SuperMicro blades — PXE-boot → Puppet-run → CloudStack agent, done
-- **Orchestration:** Apache CloudStack with Ceph RBD as primary storage
-- **Billing:** Kill Bill + Stripe, fed by a Python sync job reading CloudStack VM usage every 15 min
-- **IaC:** Puppet Roles & Profiles (`role::management`, `director`, `storage`, `compute`, `services`)
-
-New hardware: plug in, register MAC, power on. Puppet handles the rest.
-
----
-
-### Internship — Adeptum *(Jan–Feb 2026)*
-
-Brought a Panasas ActiveStor cluster to life from bare metal. Built the full PXE provisioning chain (DHCP + TFTP + NFS-root per MAC), profiled director and storage hardware, deployed Ceph, and wrote the Puppet code that makes all of it reproducible.
-
----
-
-### Internship — Movz *(Jan–Feb 2026)*
-
-Security audit of a logistics startup's REST API (OWASP Top 10:2025) — found user enumeration, exposed ports, weak file permissions. Hardened SSH, closed ports, deployed Fail2ban. Delivered incident and remediation reports.
-
----
-
 ## Homelab
 
 Ubuntu 24.04 LTS · i5-9400F · 16 GB RAM · RTX 2060 · ~8 TB storage
 
 <details>
-<summary>~38 running Docker containers</summary>
+<summary>~37 running Docker containers</summary>
 
 | Category | Services |
 |---|---|
@@ -167,8 +118,7 @@ Ubuntu 24.04 LTS · i5-9400F · 16 GB RAM · RTX 2060 · ~8 TB storage
 ---
 
 <div align="center">
-<em>Available for roles in network security, infrastructure, or server administration — Gothenburg, from May 2026.</em>
+<em>Available for roles in network security, infrastructure, or server administration — Sweden, from May 2026.</em>
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&height=100&color=0:0a1628,100:0d1117&section=footer&reversal=true)
-
