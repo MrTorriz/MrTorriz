@@ -16,15 +16,14 @@
 
 <img align="right" width="300" alt="Infrastructure" src="https://user-images.githubusercontent.com/74038190/212750996-e3f7d2b7-0675-4f59-b95f-45a2f9ed1d80.gif">
 
-### Building & securing infrastructure.
+<img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/212750996-e3f7d2b7-0675-4f59-b95f-45a2f9ed1d80.gif">
 
-From physical data center hardware to self-hosted home services — spanning hands-on networking labs (GNS3, Cisco, Arista, Juniper), Linux server administration, bare-metal provisioning, and automation with Puppet.
+🔧 **I build infrastructure that works when you pull the power cable.**
+Network security student by day, homelab operator by night.
 
-**Defense in depth. Least privilege. Things that work when you pull the power cable.**
+📍 Open to work — Sweden, May 2026
 
-<br>
-
-Looking for roles in **network security, server administration, or IT infrastructure** — Sweden, from May 2026.
+<br clear="right">
 
 <br clear="right">
 
