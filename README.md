@@ -48,7 +48,7 @@ Looking for roles in **network security, server administration, or IT infrastruc
 Ubuntu 24.04 LTS · i5-9400F · 16 GB RAM · RTX 2060 · ~8 TB storage
 
 <details>
-<summary>~37 running Docker containers</summary>
+<summary>~40 running Docker containers</summary>
 
 | Category | Services |
 |---|---|
