@@ -1,8 +1,6 @@
 <div align="center">
 
-# Martin Karlsson
-
-**Network Security Specialist · Gothenburg, Sweden**
+![header](https://capsule-render.vercel.app/api?type=shark&height=200&color=0:0d1117,100:0a1628&text=Martin%20Karlsson&fontSize=52&fontColor=c0caf5&desc=Network%20Security%20Specialist%20%C2%B7%20Gothenburg&descSize=20&descAlignY=75&animation=fadeIn)
 
 *Graduating May 2026 — Specialist inom nätverkssäkerhet, Folkuniversitetet SN24*
 
@@ -11,6 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-karlsson-557321360/)
 [![Email](https://img.shields.io/badge/Email-martiinkarlsson%40live.se-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:martiinkarlsson@live.se)
 [![Open to Work](https://img.shields.io/badge/Open%20to%20Work-May%202026-2ea44f?style=flat-square)](https://www.linkedin.com/in/martin-karlsson-557321360/)
+[![Profile Views](https://komarev.com/ghpvc/?username=MrTorriz&color=0a1628&style=flat-square&label=profile+views)](https://github.com/MrTorriz)
 
 </div>
 
@@ -164,8 +163,8 @@ Everything is in a private Git repo — Docker Compose, Bash scripts, and daily 
 
 </div>
 
----
-
 <div align="center">
 <em>Available for roles in network security, infrastructure, or server administration — Gothenburg, from May 2026.</em>
 </div>
+
+![footer](https://capsule-render.vercel.app/api?type=wave&height=100&color=0:0a1628,100:0d1117&section=footer&reversal=true)
