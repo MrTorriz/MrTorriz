@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=900&color=7AA2F7&center=true&vCenter=true&width=560&height=32&lines=Network+Security+%7C+Linux+Infrastructure;Zero+Trust+%7C+Defense+in+Depth;Networking+%7C+Automation+%7C+Homelab;Open+to+Work+%E2%80%94+May+2026)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=900&color=7AA2F7&center=true&vCenter=true&width=560&height=32&lines=Network+Security+%7C+Linux+Infrastructure;Networking+%7C+Automation+%7C+Homelab;Open+to+Work+%E2%80%94+May+2026)](https://git.io/typing-svg)
 
 <br>
 
@@ -22,7 +22,7 @@ Looking for roles in **network security, server administration, or IT infrastruc
 
 ## Tech Stack
 
-[![Tech stack](https://skillicons.dev/icons?i=linux,debian,ubuntu,kali,proxmox,docker,bash,python,git,nginx,cloudflare,vim&theme=dark)](https://skillicons.dev)
+[![Tech stack](https://skillicons.dev/icons?i=linux,debian,ubuntu,kali,docker,bash,python,git,nginx,cloudflare,vim&theme=dark)](https://skillicons.dev)
 
 **Networking & Security**
 
