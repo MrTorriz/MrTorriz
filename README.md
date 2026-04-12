@@ -14,9 +14,13 @@
 
 ---
 
+<img align="right" width="320" alt="Infrastructure" src="https://user-images.githubusercontent.com/74038190/212750996-e3f7d2b7-0675-4f59-b95f-45a2f9ed1d80.gif">
+
 I build and secure infrastructure — from physical data center hardware to self-hosted home services. My background covers hands-on networking labs (GNS3, Cisco, Arista, Juniper), Linux server administration, bare-metal provisioning, and automation with Puppet. I care about defense in depth, least privilege, and things that actually work when you pull the power cable.
 
 Looking for roles in **network security, server administration, or IT infrastructure** in Sweden.
+
+<br clear="right">
 
 ---
 
@@ -130,6 +134,8 @@ Looking for roles in **network security, server administration, or IT infrastruc
 [![GitHub Streak](https://streak-stats.demolab.com/?user=MrTorriz&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MrTorriz&theme=tokyo-night&hide_border=true)](https://github.com/MrTorriz)
+
+[![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MrTorriz&theme=tokyonight&utcOffset=1)](https://github.com/MrTorriz)
 
 </div>
 
