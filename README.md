@@ -7,7 +7,6 @@
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-karlsson-557321360/)
-[![Email](https://img.shields.io/badge/Email-martiinkarlsson%40live.se-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:martiinkarlsson@live.se)
 [![Open to Work](https://img.shields.io/badge/Open%20to%20Work-May%202026-2ea44f?style=flat-square)](https://www.linkedin.com/in/martin-karlsson-557321360/)
 [![Profile Views](https://komarev.com/ghpvc/?username=MrTorriz&color=0a1628&style=flat-square&label=profile+views)](https://github.com/MrTorriz)
 
@@ -33,7 +32,7 @@ Looking for roles in **network security, server administration, or IT infrastruc
 
 **Networking & Security**
 
-[![Networking skills](https://skillicons.dev/icons?i=linux,debian,ubuntu,fedora,bash,python,docker,git,nginx,grafana,cloudflare&theme=dark)](https://skillicons.dev)
+[![Networking skills](https://skillicons.dev/icons?i=linux,debian,ubuntu,kali,bash,python,docker,git,nginx,grafana,cloudflare&theme=dark)](https://skillicons.dev)
 
 | Protocols & Routing | Firewalls | Security |
 |---|---|---|
