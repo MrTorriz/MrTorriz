@@ -45,7 +45,15 @@ Looking for roles in **network security, server administration, or IT infrastruc
 
 ## Homelab
 
-Ubuntu 24.04 LTS · i5-9400F · 16 GB RAM · RTX 2060 · ~8 TB storage
+<div align="center">
+
+![Ubuntu](https://img.shields.io/badge/Ubuntu_24.04_LTS-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Intel](https://img.shields.io/badge/i5--9400F-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![RAM](https://img.shields.io/badge/16_GB_RAM-4A4A4A?style=for-the-badge&logo=memory&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/RTX_2060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Storage](https://img.shields.io/badge/~8_TB_Storage-4A4A4A?style=for-the-badge&logo=databricks&logoColor=white)
+
+</div>
 
 <details>
 <summary>~40 running Docker containers</summary>
@@ -64,7 +72,17 @@ Ubuntu 24.04 LTS · i5-9400F · 16 GB RAM · RTX 2060 · ~8 TB storage
 
 </details>
 
-**Security posture:** UFW default-deny · Mullvad WireGuard lockdown · CrowdSec + Suricata IDS · `no-new-privileges` on every container · SSH key-only · Cloudflare Tunnel + Access (Google OAuth) for external exposure
+<div align="center">
+
+![UFW](https://img.shields.io/badge/UFW_default--deny-FF4444?style=flat-square&logo=linux&logoColor=white)
+![WireGuard](https://img.shields.io/badge/Mullvad_WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=white)
+![CrowdSec](https://img.shields.io/badge/CrowdSec-1A1A2E?style=flat-square&logo=crowdsec&logoColor=white)
+![Suricata](https://img.shields.io/badge/Suricata_IDS-D32F2F?style=flat-square&logoColor=white)
+![Docker](https://img.shields.io/badge/no--new--privileges-2496ED?style=flat-square&logo=docker&logoColor=white)
+![SSH](https://img.shields.io/badge/SSH_key--only-4A4A4A?style=flat-square&logo=openssh&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare_Tunnel-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+
+</div>
 
 ---
 
