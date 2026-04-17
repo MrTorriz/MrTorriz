@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117,50:0a1e36,100:0d1117&text=Martin%20Karlsson&fontSize=52&fontColor=c0caf5&desc=Network%20Security%20Specialist&descSize=20&descAlignY=75&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117,50:0a1e36,100:0d1117&text=Martin%20Karlsson&fontSize=52&fontColor=c0caf5&desc=Network%20Security%20Specialist&descSize=20&descAlignY=62&animation=fadeIn)
 
 <div align="center">
 
@@ -13,14 +13,14 @@
 <div align="center">
 
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" width="45" height="45"/>
-<img src="https://cdn.simpleicons.org/gnubash/white" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="45" height="45"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
 </p>
 
 <p>
@@ -29,7 +29,7 @@
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
 <img src="https://img.shields.io/badge/Arista-EF3B2D?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Juniper-84B135?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Juniper-84B135?style=flat-square&logo=junipernetworks&logoColor=white"/>
 <img src="https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white"/>
 <img src="https://img.shields.io/badge/Suricata-EF3B2D?style=flat-square&logoColor=white"/>
 </p>
@@ -44,7 +44,7 @@
 
 <table><tr><td>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrTorriz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github)](https://github.com/MrTorriz)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrTorriz&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)](https://github.com/MrTorriz)
 
 </td><td>
 
