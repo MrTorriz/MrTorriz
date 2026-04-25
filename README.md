@@ -8,6 +8,30 @@
 
 ---
 
+Network security student finishing an internship at **Adeptum Labs** (Gothenburg), where I work with CloudStack, Panasas storage clusters, Puppet IaC, and defense-in-depth architecture. I build and operate a self-hosted homelab with ~50 Docker services, zero open inbound ports, and full IaC reproducibility. Available from **May 2026**.
+
+<div align="center">
+
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-May%202026-2ea043?style=for-the-badge&logo=briefcase&logoColor=white)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/martin-karlsson-557321360)
+
+</div>
+
+---
+
+## Featured Projects
+
+<div align="center">
+
+| Project | Description |
+|---------|-------------|
+| [**homelab**](https://github.com/MrTorriz/homelab) | Self-hosted Ubuntu 24.04 server — ~50 Docker services, defense-in-depth security, zero open inbound ports, fully reproducible IaC |
+| [**Multi-site Automation**](https://github.com/fu-sn24-grupp-6/Multi-site-automation) | Group project — automated multi-site network with BGP, VRF and Puppet |
+
+</div>
+
+---
+
 ## Tech Stack
 
 <div align="center">
@@ -25,6 +49,7 @@
 
 <p>
 <img src="https://img.shields.io/badge/Puppet-FFAE1A?style=flat-square&logo=puppet&logoColor=black"/>
+<img src="https://img.shields.io/badge/Ceph-EF5C55?style=flat-square&logo=ceph&logoColor=white"/>
 <img src="https://img.shields.io/badge/GNS3-009BDE?style=flat-square&logoColor=white"/>
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
