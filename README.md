@@ -62,36 +62,4 @@ Interning at **Adeptum Labs** (Gothenburg), where we're building a full IaaS dat
 
 </div>
 
----
-
-## GitHub Stats
-
-<div align="center">
-
-<table><tr><td>
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrTorriz&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)](https://github.com/MrTorriz)
-
-</td><td>
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrTorriz&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/MrTorriz)
-
-</td></tr></table>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MrTorriz&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## Activity
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MrTorriz&theme=tokyo-night&hide_border=true)](https://github.com/MrTorriz)
-
-![Snake animation](https://raw.githubusercontent.com/MrTorriz/MrTorriz/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
 ![footer](https://capsule-render.vercel.app/api?type=wave&height=100&color=0:0a1628,100:0d1117&section=footer&reversal=true)
