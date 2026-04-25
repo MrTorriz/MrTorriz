@@ -68,5 +68,4 @@ Interning at **Adeptum Labs** (Gothenburg), where we're building a full IaaS dat
 </p>
 
 </div>
-
 ![footer](https://capsule-render.vercel.app/api?type=wave&height=100&color=0:0a1628,100:0d1117&section=footer&reversal=true)
