@@ -8,7 +8,7 @@
 
 ---
 
-Network security student finishing an internship at **Adeptum Labs** (Gothenburg), where I work with CloudStack, Panasas storage clusters, Puppet IaC, and defense-in-depth architecture. I build and operate a self-hosted homelab with ~50 Docker services, zero open inbound ports, and full IaC reproducibility. Available from **May 2026**.
+Network security student completing an internship at **Adeptum Labs** (Gothenburg), where I'm building a physical data center from scratch — provisioned HP C7000 blade enclosures with 8 diskless blades (PXE/NFS-root, Ceph Reef 18.2.7), automated the full stack with Puppet (Roles/Profiles pattern), and integrated CloudStack IaaS with KillBill billing + Stripe. I also run a self-hosted homelab with ~50 Docker services, zero open inbound ports, and full IaC reproducibility. Available from **May 2026**.
 
 <div align="center">
 
@@ -50,6 +50,7 @@ Network security student finishing an internship at **Adeptum Labs** (Gothenburg
 <p>
 <img src="https://img.shields.io/badge/Puppet-FFAE1A?style=flat-square&logo=puppet&logoColor=black"/>
 <img src="https://img.shields.io/badge/Ceph-EF5C55?style=flat-square&logo=ceph&logoColor=white"/>
+<img src="https://img.shields.io/badge/CloudStack-336791?style=flat-square&logoColor=white"/>
 <img src="https://img.shields.io/badge/GNS3-009BDE?style=flat-square&logoColor=white"/>
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
