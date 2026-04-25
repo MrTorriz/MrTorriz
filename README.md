@@ -67,5 +67,5 @@ Interning at **Adeptum Labs** (Gothenburg), where we're building a full IaaS dat
 <img src="https://img.shields.io/badge/Juniper-84B135?style=flat-square&logo=junipernetworks&logoColor=white"/>
 </p>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&height=100&color=0:0a1628,100:0d1117&section=footer&reversal=true"/>
 </div>
-![footer](https://capsule-render.vercel.app/api?type=wave&height=100&color=0:0a1628,100:0d1117&section=footer&reversal=true)
