@@ -35,7 +35,6 @@ Interning at **Adeptum Labs** (Gothenburg), where we're building a full IaaS dat
 ## Tech Stack
 
 <div align="center">
-
 <p>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white"/>
@@ -47,7 +46,6 @@ Interning at **Adeptum Labs** (Gothenburg), where we're building a full IaaS dat
 <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
 <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
 </p>
-
 <p>
 <img src="https://img.shields.io/badge/Puppet-FFAE1A?style=flat-square&logo=puppet&logoColor=black"/>
 <img src="https://img.shields.io/badge/Ceph-EF5C55?style=flat-square&logo=ceph&logoColor=white"/>
@@ -58,7 +56,6 @@ Interning at **Adeptum Labs** (Gothenburg), where we're building a full IaaS dat
 <img src="https://img.shields.io/badge/FortiGate-EE3124?style=flat-square&logoColor=white"/>
 <img src="https://img.shields.io/badge/WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=white"/>
 </p>
-
 <p>
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
 <img src="https://img.shields.io/badge/Suricata-EF3B2D?style=flat-square&logoColor=white"/>
@@ -66,6 +63,5 @@ Interning at **Adeptum Labs** (Gothenburg), where we're building a full IaaS dat
 <img src="https://img.shields.io/badge/Arista-EF3B2D?style=flat-square&logoColor=white"/>
 <img src="https://img.shields.io/badge/Juniper-84B135?style=flat-square&logo=junipernetworks&logoColor=white"/>
 </p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&height=100&color=0:0a1628,100:0d1117&section=footer&reversal=true"/>
 </div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&height=100&color=0:0a1628,100:0d1117&section=footer&reversal=true"/>
