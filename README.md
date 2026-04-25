@@ -8,7 +8,7 @@
 
 ---
 
-Interning at **Adeptum Labs** (Gothenburg), where we're building a full IaaS data center from scratch using reconditioned enterprise hardware — 100+ HP BL460c blades across C7000 enclosures, 75-node Panasas storage, and an Arista DCS-7050 core switch across 5 racks. My contributions span the full stack: diskless blade infrastructure (PXE/NFS-root boot, Ceph Reef 18.2.7), end-to-end Puppet automation (Roles/Profiles pattern), CloudStack IaaS with KillBill + Stripe billing integration, and hands-on hardware work including firmware upgrades and blade provisioning. I also run a self-hosted homelab with ~50 Docker services, zero open inbound ports, and full IaC reproducibility. Available from **May 2026**.
+Interning at **Adeptum Labs** (Gothenburg), where we're building a full IaaS data center from scratch on reconditioned enterprise hardware. My work spans the full stack: diskless blade infrastructure with PXE/NFS-root boot, Ceph storage clusters, end-to-end Puppet automation (Roles/Profiles pattern), CloudStack IaaS with KillBill + Stripe billing integration, enterprise switching, and hands-on hardware provisioning and firmware upgrades. I also run a self-hosted homelab with ~50 Docker services, zero open inbound ports, and full IaC reproducibility. Available from **May 2026**.
 
 <div align="center">
 
