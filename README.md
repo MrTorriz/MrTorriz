@@ -68,16 +68,4 @@
 
 </div>
 
----
-
-## Contact
-
-<div align="center">
-
-<a href="https://linkedin.com/in/martin-karlsson-557321360">
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
-</a>
-
-</div>
-
 ![footer](https://capsule-render.vercel.app/api?type=wave&height=100&color=0:0a1628,100:0d1117&section=footer&reversal=true)
