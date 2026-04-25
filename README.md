@@ -40,6 +40,7 @@ Interning at **Adeptum Labs** (Gothenburg), where we're building a full IaaS dat
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kali_Linux-268BEE?style=flat-square&logo=kalilinux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
@@ -51,13 +52,19 @@ Interning at **Adeptum Labs** (Gothenburg), where we're building a full IaaS dat
 <img src="https://img.shields.io/badge/Puppet-FFAE1A?style=flat-square&logo=puppet&logoColor=black"/>
 <img src="https://img.shields.io/badge/Ceph-EF5C55?style=flat-square&logo=ceph&logoColor=white"/>
 <img src="https://img.shields.io/badge/CloudStack-336791?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white"/>
 <img src="https://img.shields.io/badge/GNS3-009BDE?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/pfSense-212121?style=flat-square&logo=pfsense&logoColor=white"/>
+<img src="https://img.shields.io/badge/FortiGate-EE3124?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=white"/>
+</p>
+
+<p>
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Suricata-EF3B2D?style=flat-square&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
 <img src="https://img.shields.io/badge/Arista-EF3B2D?style=flat-square&logoColor=white"/>
 <img src="https://img.shields.io/badge/Juniper-84B135?style=flat-square&logo=junipernetworks&logoColor=white"/>
-<img src="https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white"/>
-<img src="https://img.shields.io/badge/Suricata-EF3B2D?style=flat-square&logoColor=white"/>
 </p>
 
 </div>
