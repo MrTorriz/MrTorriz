@@ -1,0 +1,48 @@
+diff --git a/src/commands/NeofetchCommand.ts b/src/commands/NeofetchCommand.ts
+index 39aa0d0..8516ebc 100644
+--- a/src/commands/NeofetchCommand.ts
++++ b/src/commands/NeofetchCommand.ts
+@@ -35,7 +35,7 @@ export class NeofetchCommand implements TerminalCommand {
+             };
+         } else {
+             const stats = context.stats as GithubUserStats;
+-            neoFetchData.info = {
++            neoFetchData.info = context.config.neofetchInfo || {
+                 "OS": "GitHub Profile",
+                 "Repos": stats.repoCount.toString(),
+                 "Gists": stats.gistCount.toString(),
+diff --git a/src/graphicsEngine/graphics/NeoFetchGraphics.ts b/src/graphicsEngine/graphics/NeoFetchGraphics.ts
+index 17ec897..e16a867 100644
+--- a/src/graphicsEngine/graphics/NeoFetchGraphics.ts
++++ b/src/graphicsEngine/graphics/NeoFetchGraphics.ts
+@@ -13,5 +13,8 @@ export class NeoFetchGraphics implements TerminalGraphics {
+     public format(data: GraphicsDataContract, theme: Theme): string {
+         const info = data as NeoFetchGraphicsData;
+         const infoLines = Object.entries(info.info).map(([key, value]) => {
++            if (key.startsWith("_")) {
++                return `${value}`;
++            }
+             return `${ANSI.label(key)} ${value}`;
+         });
+@@ -28,7 +31,7 @@ export class NeoFetchGraphics implements TerminalGraphics {
+         const logo = loadLogo(logoPath, ANSI.green);
+
+         const max = Math.max(logo.length, lines.length);
+-        return Array.from({ length: max }, (_, i) =>
++        return '\n' + Array.from({ length: max }, (_, i) =>
+             `${logo[i] ?? ' '.repeat(15)}  ${lines[i] ?? ''}`
+         ).join('\n');
+     }
+diff --git a/src/commands/WhoamiCommand.ts b/src/commands/WhoamiCommand.ts
+--- a/src/commands/WhoamiCommand.ts
++++ b/src/commands/WhoamiCommand.ts
+@@ -16,7 +16,7 @@ export class WhoamiCommand implements TerminalCommand {
+             terminal.addCommand(this.name, stats.fullName, "text");
+         } else {
+             const stats = context.stats as GithubUserStats;
+-            terminal.addCommand(this.name, stats.name ?? context.target, "text");
++            terminal.addCommand(this.name, (stats.name ?? context.target) + "\n", "text");
+         }
+     }
+ }
+ 

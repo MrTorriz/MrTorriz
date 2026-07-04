@@ -1,0 +1,25 @@
+{
+  "theme": "github",
+  "headerStyle": "mac",
+  "hostname": "github.com",
+  "typingSpeed": 80,
+  "commands": [
+    "whoami",
+    "neofetch"
+  ],
+  "neofetchInfo": {
+    "Education": "Network Security Specialist, SN24",
+    "Thesis": "ZTNA — 5/5 test cases passed",
+    "Internship": "Adeptum Labs — private cloud IaC",
+    "Focus": "Zero Trust · IaC · Linux hardening",
+    "Stack": "Linux · Docker · Puppet · Nginx · Bash",
+    "_1": "",
+    "sn24-ztna": "default-deny ZTNA gateway (L3/L7)",
+    "sayit": "offline Whisper dictation for Linux",
+    "homelab": "~50 services, 0 open ports",
+    "proxmox-homelab": "6 VMs, GPU+8TB passthrough",
+    "Multi-site-automation": "BGP/VRF + Puppet IaC",
+    "_2": "",
+    "Status": "Open to Work"
+  }
+}
