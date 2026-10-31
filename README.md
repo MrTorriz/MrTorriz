@@ -1,6 +1,3 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./terminal_dark.svg">
-    <img alt="Martin Karlsson — GitHub terminal stats" src="./terminal_light.svg" width="840">
-  </picture>
+  <img src="./terminal.svg" alt="systemctl status martin — network security specialist in Stockholm, open to work; systemctl list-units lists the public projects sn24-ztna, Multi-site-automation, homelab, sayit and proxmox-homelab" width="900">
 </p>
