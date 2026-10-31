@@ -15,10 +15,10 @@
     "Stack": "Linux · Docker · Puppet · Nginx · Bash",
     "_1": "",
     "sn24-ztna": "default-deny ZTNA gateway (L3/L7)",
-    "sayit": "offline Whisper dictation for Linux",
-    "homelab": "~50 services, 0 open ports",
-    "proxmox-homelab": "6 VMs, GPU+8TB passthrough",
+    "homelab": "46 containers · VPN-only egress",
+    "sayit": "offline dictation, Linux/Win/macOS",
     "Multi-site-automation": "BGP/VRF + Puppet IaC",
+    "proxmox-homelab": "retired 2026-09 (archived)",
     "_2": "",
     "Status": "Open to Work"
   }
